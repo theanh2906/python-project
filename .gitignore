@@ -1,0 +1,16 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environments
+.env/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Distribution / Packaging
+build/
+dist/
+output/
+*.egg-info/
