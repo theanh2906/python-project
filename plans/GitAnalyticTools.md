@@ -1,0 +1,11 @@
+- A GUI to analyze Git repositories and visualize the data by graphs using Python.
+- Some criteria to analyze:
+  - Number of commits per author
+  - Number of lines added/removed per author
+  - Number of commits per day/week/month
+  - Percentage of commits by author
+  - Percentage of contributors
+- Those criteria should be displayed in a graph and calculated in percentage.
+- The tool should be written in Python using Tkinter, customtkinter.
+- The graphs should be displayed using matplotlib or some beautiful library.
+- The Git repository should be selected using a file dialog. If it is not a valid Git repository, an error message should be displayed. The tool will rerun when a different valid Git repository is selected.

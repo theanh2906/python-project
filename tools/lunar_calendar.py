@@ -1,10 +1,8 @@
-import datetime
 import calendar
-import tkinter as tk
-from tkinter import ttk
-import customtkinter as ctk
-from typing import List, Optional, Dict, Tuple
+import datetime
 import math
+
+import customtkinter as ctk
 
 # Configure customtkinter appearance
 ctk.set_appearance_mode("System")  # Options: "System", "Dark", "Light"

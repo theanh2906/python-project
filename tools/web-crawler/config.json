@@ -1,0 +1,22 @@
+{
+  "URLList": {
+    "selector": "div.info_chuyengia > a",
+    "get_element_content": false,
+    "element_attribute": "href"
+  },
+  "JsonAttributeConfig": [
+    {
+      "json_attribute": "Name",
+      "selector": "h1.cl_brand",
+      "get_element_content": true,
+      "element_attribute": ""
+    },
+    {
+      "json_attribute": "Experience",
+      "selector": "div#collapsekinhnghiemct",
+      "get_element_content": true,
+      "element_attribute": ""
+    }
+  ],
+  "timeout": 10
+}
