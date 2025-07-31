@@ -48,11 +48,9 @@ Date: 2025-07-31
 import base64
 import json
 import os
-import platform
 import tempfile
 import threading
 import zipfile
-from datetime import datetime
 from tkinter import ttk, filedialog, messagebox, simpledialog
 
 import customtkinter as ctk
@@ -76,7 +74,7 @@ class FirebaseStorageManager:
         
         # Path to service account key file (supports both .json and .b64 files)
         # You can also set GOOGLE_APPLICATION_CREDENTIALS environment variable instead
-        self.SERVICE_ACCOUNT_KEY_PATH = "serviceAccountKey.json"
+        self.SERVICE_ACCOUNT_KEY_PATH = "serviceAccountKey.b64"
         
         # PIN for deletion confirmation
         self.deletion_pin = "1402"
