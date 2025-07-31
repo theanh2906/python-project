@@ -52,6 +52,10 @@ class ShellCommandActionTool(ctk.CTk):
                 "name": "Open MDCore",
                 "command": 'start http://localhost:8009/'
             },
+            {
+                "name": "Reset OOBE",
+                "command": 'D:\SKO_reset\\SKO_reset.bat'
+            }
         ]
 
         # Create UI elements
