@@ -1,0 +1,22 @@
+2025-08-05 18:51:25 - logger - INFO - _setup_logging:97 - Kafka Tool Logger initialized - Level: INFO
+2025-08-05 18:51:25 - logger - INFO - _setup_logging:98 - Log directory: D:\Personal\python-project\logs
+2025-08-05 18:51:27 - server_panel - INFO - __init__:61 - Server Panel initialized
+2025-08-05 18:51:28 - topics_panel - INFO - __init__:59 - Topics Panel initialized
+2025-08-05 18:51:28 - groups_panel - INFO - __init__:57 - Consumer Groups Panel initialized
+2025-08-05 18:51:28 - simulator_panel - INFO - __init__:73 - Simulator Panel initialized
+2025-08-05 18:51:28 - console_panel - INFO - __init__:67 - Console Panel initialized
+2025-08-05 18:51:28 - config_panel - INFO - __init__:65 - Configuration Panel initialized
+2025-08-05 18:51:28 - main_window - INFO - __init__:77 - Kafka Tool Main Window initialized
+2025-08-05 18:51:28 - __main__ - INFO - main:66 - Main window created successfully
+2025-08-05 18:51:28 - __main__ - INFO - main:67 - Starting application main loop...
+2025-08-05 18:51:28 - main_window - INFO - run:517 - Starting Kafka Tool application
+2025-08-05 18:51:38 - kafka_manager - INFO - _validate_kafka_folder:74 - Kafka folder validation successful: D:\kafka_2.13-4.0.0
+2025-08-05 18:51:38 - kafka_manager - WARNING - _detect_kafka_mode:111 - Could not detect Kafka mode: File contains no section headers.
+file: WindowsPath('D:/kafka_2.13-4.0.0/config/server.properties'), line: 19
+'process.roles=broker,controller\n'. Assuming Zookeeper mode.
+2025-08-05 18:51:38 - kafka_manager - INFO - _init_admin_client:124 - Kafka Admin Client initialized successfully
+2025-08-05 18:51:38 - producer_consumer - INFO - _init_producer:59 - Kafka Producer initialized successfully
+2025-08-05 18:51:38 - config_parser - INFO - _detect_kafka_mode:135 - Detected Kafka mode: KRaft
+2025-08-05 18:51:38 - config_parser - INFO - reload_config:75 - Configuration loaded successfully from D:\kafka_2.13-4.0.0\config\server.properties
+2025-08-05 18:51:38 - main_window - INFO - set_kafka_folder:299 - Kafka folder set to: D:/kafka_2.13-4.0.0
+2025-08-05 18:51:51 - server_panel - INFO - _start_server_worker:334 - Starting Kafka server...

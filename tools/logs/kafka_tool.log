@@ -1,0 +1,24 @@
+2025-08-04 11:23:40 - logger - INFO - _setup_logging:97 - Kafka Tool Logger initialized - Level: INFO
+2025-08-04 11:23:40 - logger - INFO - _setup_logging:98 - Log directory: D:\Personal\python-project\tools\logs
+2025-08-04 11:23:40 - __main__ - INFO - main:56 - ============================================================
+2025-08-04 11:23:40 - __main__ - INFO - main:57 - Kafka Tool Application Starting
+2025-08-04 11:23:40 - __main__ - INFO - main:58 - Application Root: D:\Personal\python-project\tools
+2025-08-04 11:23:40 - __main__ - INFO - main:59 - Python Version: 3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]
+2025-08-04 11:23:40 - __main__ - INFO - main:60 - Platform: win32
+2025-08-04 11:23:40 - __main__ - INFO - main:61 - ============================================================
+2025-08-04 11:58:40 - logger - INFO - _setup_logging:97 - Kafka Tool Logger initialized - Level: INFO
+2025-08-04 11:58:40 - logger - INFO - _setup_logging:98 - Log directory: D:\Personal\python-project\tools\logs
+2025-08-04 11:58:40 - __main__ - INFO - main:56 - ============================================================
+2025-08-04 11:58:40 - __main__ - INFO - main:57 - Kafka Tool Application Starting
+2025-08-04 11:58:40 - __main__ - INFO - main:58 - Application Root: D:\Personal\python-project\tools
+2025-08-04 11:58:40 - __main__ - INFO - main:59 - Python Version: 3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]
+2025-08-04 11:58:40 - __main__ - INFO - main:60 - Platform: win32
+2025-08-04 11:58:40 - __main__ - INFO - main:61 - ============================================================
+2025-08-05 18:51:25 - logger - INFO - _setup_logging:97 - Kafka Tool Logger initialized - Level: INFO
+2025-08-05 18:51:25 - logger - INFO - _setup_logging:98 - Log directory: D:\Personal\python-project\tools\logs
+2025-08-05 18:51:25 - __main__ - INFO - main:56 - ============================================================
+2025-08-05 18:51:25 - __main__ - INFO - main:57 - Kafka Tool Application Starting
+2025-08-05 18:51:25 - __main__ - INFO - main:58 - Application Root: D:\Personal\python-project\tools
+2025-08-05 18:51:25 - __main__ - INFO - main:59 - Python Version: 3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]
+2025-08-05 18:51:25 - __main__ - INFO - main:60 - Platform: win32
+2025-08-05 18:51:25 - __main__ - INFO - main:61 - ============================================================

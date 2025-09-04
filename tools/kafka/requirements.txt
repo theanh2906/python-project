@@ -1,0 +1,45 @@
+# Kafka Tool Requirements
+# Python dependencies for the Professional Kafka Tool
+
+# Core Kafka library
+confluent-kafka>=2.3.0
+
+# GUI enhancements (optional but recommended)
+# Uncomment one of the following for modern GUI styling:
+# ttkbootstrap>=1.10.1
+# customtkinter>=5.2.0
+
+# Additional utilities
+pathlib2>=2.3.7; python_version < '3.4'
+
+# Development and testing dependencies (optional)
+# Uncomment for development:
+# pytest>=7.4.0
+# pytest-cov>=4.1.0
+# black>=23.7.0
+# flake8>=6.0.0
+
+# Packaging dependencies (optional)
+# Uncomment for building standalone executables:
+# pyinstaller>=5.13.0
+# auto-py-to-exe>=2.40.0
+
+# Documentation dependencies (optional)
+# Uncomment for generating documentation:
+# sphinx>=7.1.0
+# sphinx-rtd-theme>=1.3.0
+
+# Notes:
+# - confluent-kafka is the main dependency for Kafka operations
+# - tkinter is included with Python standard library (no need to install)
+# - ttkbootstrap or customtkinter can be used for modern GUI themes
+# - pyinstaller can be used to create standalone .exe files for Windows
+# 
+# Installation:
+# pip install -r requirements.txt
+#
+# For development with all optional dependencies:
+# pip install -r requirements.txt pytest pytest-cov black flake8
+#
+# For building standalone executables:
+# pip install -r requirements.txt pyinstaller

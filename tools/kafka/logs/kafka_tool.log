@@ -1,0 +1,58 @@
+2025-08-04 11:23:40 - logger - INFO - _setup_logging:97 - Kafka Tool Logger initialized - Level: INFO
+2025-08-04 11:23:40 - logger - INFO - _setup_logging:98 - Log directory: D:\Personal\python-project\tools\kafka\logs
+2025-08-04 11:23:41 - server_panel - INFO - __init__:61 - Server Panel initialized
+2025-08-04 11:23:41 - topics_panel - INFO - __init__:59 - Topics Panel initialized
+2025-08-04 11:23:41 - groups_panel - INFO - __init__:57 - Consumer Groups Panel initialized
+2025-08-04 11:23:41 - simulator_panel - INFO - __init__:73 - Simulator Panel initialized
+2025-08-04 11:23:41 - console_panel - INFO - __init__:67 - Console Panel initialized
+2025-08-04 11:23:41 - config_panel - INFO - __init__:65 - Configuration Panel initialized
+2025-08-04 11:23:42 - main_window - INFO - __init__:77 - Kafka Tool Main Window initialized
+2025-08-04 11:23:42 - __main__ - INFO - main:66 - Main window created successfully
+2025-08-04 11:23:42 - __main__ - INFO - main:67 - Starting application main loop...
+2025-08-04 11:23:42 - main_window - INFO - run:517 - Starting Kafka Tool application
+2025-08-04 11:23:54 - kafka_manager - INFO - _validate_kafka_folder:74 - Kafka folder validation successful: D:\kafka_2.13-4.0.0
+2025-08-04 11:23:54 - kafka_manager - WARNING - _detect_kafka_mode:111 - Could not detect Kafka mode: File contains no section headers.
+file: WindowsPath('D:/kafka_2.13-4.0.0/config/server.properties'), line: 19
+'process.roles=broker,controller\n'. Assuming Zookeeper mode.
+2025-08-04 11:23:54 - kafka_manager - INFO - _init_admin_client:124 - Kafka Admin Client initialized successfully
+2025-08-04 11:23:54 - producer_consumer - INFO - _init_producer:59 - Kafka Producer initialized successfully
+2025-08-04 11:23:54 - config_parser - INFO - _detect_kafka_mode:135 - Detected Kafka mode: KRaft
+2025-08-04 11:23:54 - config_parser - INFO - reload_config:75 - Configuration loaded successfully from D:\kafka_2.13-4.0.0\config\server.properties
+2025-08-04 11:23:54 - main_window - INFO - set_kafka_folder:299 - Kafka folder set to: D:/kafka_2.13-4.0.0
+2025-08-04 11:24:07 - server_panel - INFO - _start_server_worker:334 - Starting Kafka server...
+2025-08-04 11:26:11 - main_window - INFO - _on_closing:491 - Application closing...
+2025-08-04 11:26:11 - producer_consumer - INFO - _log_message:80 - Producer stopped
+2025-08-04 11:26:11 - producer_consumer - INFO - _log_message:296 - Consumer stopped
+2025-08-04 11:26:11 - producer_consumer - INFO - stop_all:567 - All producer/consumer operations stopped
+2025-08-04 11:26:11 - __main__ - INFO - main:72 - Application main loop ended
+2025-08-04 11:26:11 - __main__ - INFO - main:113 - Kafka Tool Application Shutdown
+2025-08-04 11:26:11 - __main__ - INFO - main:114 - ============================================================
+2025-08-04 11:58:40 - logger - INFO - _setup_logging:97 - Kafka Tool Logger initialized - Level: INFO
+2025-08-04 11:58:40 - logger - INFO - _setup_logging:98 - Log directory: D:\Personal\python-project\tools\kafka\logs
+2025-08-04 11:58:42 - server_panel - INFO - __init__:61 - Server Panel initialized
+2025-08-04 11:58:42 - topics_panel - INFO - __init__:59 - Topics Panel initialized
+2025-08-04 11:58:42 - groups_panel - INFO - __init__:57 - Consumer Groups Panel initialized
+2025-08-04 11:58:42 - simulator_panel - INFO - __init__:73 - Simulator Panel initialized
+2025-08-04 11:58:42 - console_panel - INFO - __init__:67 - Console Panel initialized
+2025-08-04 11:58:42 - config_panel - INFO - __init__:65 - Configuration Panel initialized
+2025-08-04 11:58:42 - main_window - INFO - __init__:77 - Kafka Tool Main Window initialized
+2025-08-04 11:58:42 - __main__ - INFO - main:66 - Main window created successfully
+2025-08-04 11:58:42 - __main__ - INFO - main:67 - Starting application main loop...
+2025-08-04 11:58:42 - main_window - INFO - run:517 - Starting Kafka Tool application
+2025-08-04 11:58:58 - kafka_manager - INFO - _validate_kafka_folder:74 - Kafka folder validation successful: D:\kafka_2.13-4.0.0
+2025-08-04 11:58:58 - kafka_manager - WARNING - _detect_kafka_mode:111 - Could not detect Kafka mode: File contains no section headers.
+file: WindowsPath('D:/kafka_2.13-4.0.0/config/server.properties'), line: 19
+'process.roles=broker,controller\n'. Assuming Zookeeper mode.
+2025-08-04 11:58:58 - kafka_manager - INFO - _init_admin_client:124 - Kafka Admin Client initialized successfully
+2025-08-04 11:58:58 - producer_consumer - INFO - _init_producer:59 - Kafka Producer initialized successfully
+2025-08-04 11:58:58 - config_parser - INFO - _detect_kafka_mode:135 - Detected Kafka mode: KRaft
+2025-08-04 11:58:58 - config_parser - INFO - reload_config:75 - Configuration loaded successfully from D:\kafka_2.13-4.0.0\config\server.properties
+2025-08-04 11:58:58 - main_window - INFO - set_kafka_folder:299 - Kafka folder set to: D:/kafka_2.13-4.0.0
+2025-08-04 11:59:44 - server_panel - INFO - _start_server_worker:334 - Starting Kafka server...
+2025-08-04 12:00:33 - main_window - INFO - _on_closing:491 - Application closing...
+2025-08-04 12:00:33 - producer_consumer - INFO - _log_message:80 - Producer stopped
+2025-08-04 12:00:33 - producer_consumer - INFO - _log_message:296 - Consumer stopped
+2025-08-04 12:00:33 - producer_consumer - INFO - stop_all:567 - All producer/consumer operations stopped
+2025-08-04 12:00:33 - __main__ - INFO - main:72 - Application main loop ended
+2025-08-04 12:00:33 - __main__ - INFO - main:113 - Kafka Tool Application Shutdown
+2025-08-04 12:00:33 - __main__ - INFO - main:114 - ============================================================
