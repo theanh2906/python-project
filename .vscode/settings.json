@@ -1,0 +1,11 @@
+{
+  "editor.defaultFormatter": "ms-python.black-formatter",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.analysis.aiCodeActions": {
+    "implementAbstractClasses": true,
+    "generateSymbol": true,
+    "convertFormatString": true
+  }
+}
