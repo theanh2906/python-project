@@ -27,8 +27,13 @@ dependencies = [
 ]
 
 [build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
 
-[tool.pip]
-no-dependencies = true
+[tool.setuptools]
+packages = ["image_processing", "media_processing", "tools", "cli"]
+
+[project.scripts]
+statement_cli = "cli.statement_cli:main"
+check_prime = "cli.check_prime:main"
+stun_ip = "cli.stun_ip:main"

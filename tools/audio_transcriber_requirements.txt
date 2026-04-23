@@ -1,0 +1,15 @@
+# Audio Transcriber - Requirements
+# Install with: pip install -r audio_transcriber_requirements.txt
+#
+# IMPORTANT: ffmpeg must also be installed on the system:
+#   Windows (Chocolatey): choco install ffmpeg
+#   Windows (Scoop):      scoop install ffmpeg
+#   Windows (winget):     winget install Gyan.FFmpeg
+
+openai-whisper>=20231117
+yt-dlp>=2024.1.1
+requests>=2.31.0
+fpdf2>=2.7.6
+questionary>=2.0.0
+rich>=13.0.0
+colorama>=0.4.6

@@ -71,21 +71,20 @@ detect_edges("images/image.jpg", output_path="output/edges.jpg", method="canny")
 
 - **File Encryptor**: `python tools/file_encryptor.py`
 - **Directory Inspector**: `python directory_inspector.py`
-- **Media Cutter**: `python media-processing/media_cutter.py`
-- **Image Resizer**: `python image-resizer.py`
+- **Media Cutter**: `python media_processing/media_cutter.py`
+- **Image Resizer**: `python image_processing/main.py`
 - **Lunar Calendar**: `python tools/lunar_calendar.py`
 
 ## Module Structure
 
-- `main.py`: CLI and interactive menu
-- `image_utils.py`: Image I/O and display
-- `edge_detection.py`, `canny_edge_detector.py`: Edge detection
-- `sharpening.py`, `unsharp_mark_kernel.py`: Sharpening algorithms
-- `filters.py`: PIL filter management
-- `image_processing.py`: Core processing logic
+- `image_processing/main.py`: CLI and interactive menu
+- `image_processing/image_utils.py`: Image I/O and display
+- `image_processing/edge_detection.py`: Edge detection
+- `image_processing/sharpening.py`: Sharpening algorithms
+- `image_processing/filters.py`: PIL filter management
 - `utils.py`: General utilities
 - `tools/`: Extra utilities (encryption, web crawling, etc.)
-- `media-processing/`: Media cutting and processing tools
+- `media_processing/`: Media cutting and processing tools
 
 ## Dependencies
 
